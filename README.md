@@ -1,2 +1,12 @@
 # KAntivirus
 1 beta- KA
+🦠 Amenazas detectadas
+CMD_EXEC_____________
+EVAL_EXEC_____________
+REVERSE_SHELL_____________
+RANSOMWARE_____________
+KEYLOGGER_____________
+DROPPER_____________
+PASSWD_STEAL_____________
+WORM_SPREAD_____________
+BASE64_PAYLOAD_____________
